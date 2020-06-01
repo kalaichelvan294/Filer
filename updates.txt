@@ -1,0 +1,45 @@
+Dated 1-jun-2020:
+    added open_file package in downloads
+    error on flutter_share manifest,wrapper gradle version, no androidx support
+    gradle 4.10.20 to 5.6.2
+    ------
+    used alternate package flutter_share_plugin
+    added share options[
+        url in home page,
+        file share in downloads page,
+    ]
+    added delete file option in downloads page
+
+Dated 31-may-2020:
+    updated build.gardle kotlin plugin version
+
+Dated 30-may-2020:
+    added downloads page with no querires
+    added about dialog
+
+Dated 28-may-2020:
+    miniatured the apk size
+    added flutter_downloader:1.4.4 package 
+    implemented functions and class
+    added download 
+    updated gradle clear http traffic hit
+
+Dated 27-may-2020:
+    
+    replaces data_connectivity_checker -> connectivity package
+    stalled download option (disabled)
+
+    added flush bars upto[
+        internetcheck,
+        string empty check,
+        search result check
+    ]
+
+Dated 27-may-2020:
+    added flushbar 1.8.0 package
+    added data_connectivity_checker 0.3.4 package
+
+    added flush bars for [
+        internet connection error,
+        storage permission error,
+    ]
