@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Filer
 Filer - Surf, Download and Share. search
 =======
