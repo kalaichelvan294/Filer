@@ -1,3 +1,20 @@
+
+C:/Users/chelvankn/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/flushbar-1.8.0/lib/flushbar_route.dart
+
+@override
+  void install(OverlayEntry insertionPoint) {
+    assert(!_transitionCompleter.isCompleted, 'Cannot install a $runtimeType after disposing it.');
+    _controller = createAnimationController();
+    assert(_controller != null, '$runtimeType.createAnimationController() returned null.');
+    _animation = createAnimation();
+    assert(_animation != null, '$runtimeType.createAnimation() returned null.');
+    
+    super.install();
+  }
+
+  .... worked build
+
+
 Dated 1-jun-2020:
     added open_file package in downloads
     error on flutter_share manifest,wrapper gradle version, no androidx support
