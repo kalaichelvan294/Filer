@@ -9,6 +9,4 @@ Filer is built using flutter which uses web-scrapping to find the files of speci
 
 Filer is an application to search internet for specific type of files like pdf,docs,xlsx,.etc. This will be most helpful for searching and downloading pdf books available on internet. And also you can share this resources to others through external apps like gmail, whatsapp, etc,.
 
-<img src="screenshots/sc2.png" width="50%" height="50%">
-<img src="screenshots/sc1.png" width="50%" height="50%">
-<img src="screenshots/sc3.png" width="80" height="200">
+<img src="screenshots/sc2.png" width="30%" height="30%"><img src="screenshots/sc1.png" width="30%" height="30%"><img src="screenshots/sc3.png" width="30%" height="30%">
