@@ -4,6 +4,8 @@
 
 Filer - Surf, Download and Share.
 
+Apk is under beta testing.
+
 Android Apk download url : https://rb.gy/pz1yc7
 
 Direct drive link : https://drive.google.com/file/d/1rvEv6DD7UOBJEK_2TkU31guQYmlJWNzf/view?usp=drivesdk
