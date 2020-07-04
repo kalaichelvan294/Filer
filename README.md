@@ -6,7 +6,7 @@ Filer - Surf, Download and Share.
 
 Apk is under beta testing.
 
-Android Apk download url (Direct drive link) : https://drive.google.com/file/d/1M7ncPtxPf4A6n9oKDs1_oJ2GcCftTDBW/view?usp=sharing
+Android Apk download url (Direct drive link) : https://drive.google.com/file/d/1y0lVJswwk95N3lkS1Gr2on5wtC6uCBoi/view?usp=drivesdk
 
 Filer is built using flutter which uses web-scrapping to find the files of specific type in google.
 
