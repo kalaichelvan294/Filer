@@ -1,7 +1,7 @@
 {
     "name":"Filer",
-    "version":"1.0.2",
+    "version":"1.0.3",
     "date":"3 Jul 2020",
-    "desc":"OCR Update, beta Testing cloud storage",
-    "download":"https://drive.google.com/file/d/1rvEv6DD7UOBJEK_2TkU31guQYmlJWNzf/view?usp=drivesdk"
+    "desc":"made some Improvements, addded Google Auth",
+    "download":"https://drive.google.com/file/d/1M7ncPtxPf4A6n9oKDs1_oJ2GcCftTDBW/view?usp=sharing"
 }
